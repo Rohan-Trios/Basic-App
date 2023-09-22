@@ -3,7 +3,11 @@ body{
     color: aquamarine;
 }
 
-h3{
+h1{
     text-align: center;
     font-style: italic;
+}
+
+h3{
+    font-family: 'Comic Sans MS';
 }

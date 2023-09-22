@@ -1,2 +1,2 @@
 # Basic-App
-This is my Basic App Repository
+Basic App Repository

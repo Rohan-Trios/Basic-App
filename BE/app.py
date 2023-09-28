@@ -1,4 +1,4 @@
-print( 'Welcome to the BackEnd Code' )
+print( 'Starting the BackEnd Code' )
 
 # Code to Read JSON File
 with open('Data\companies.json') as jsonFile:
